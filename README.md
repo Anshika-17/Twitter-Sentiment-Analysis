@@ -3,6 +3,9 @@
 ## Project Overview
 This project provides a complete pipeline for training a Twitter sentiment analysis model using Twitter-RoBERTa in Google Colab and deploying it as a Streamlit web application. The model is specifically fine-tuned on Twitter data to better understand Twitter-specific language, slang, hashtags, and abbreviations.
 
+## Deployment Link
+[Twitter Sentiment Analysis][https://anshika-twitter-sentiment-analysis.streamlit.app/]
+
 ## Project Structure
 ```
 Twitter-Sentiment-analysis/
